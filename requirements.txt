@@ -1,0 +1,8 @@
+pandas 
+ccxt
+numpy
+plotly
+scipy 
+quantstats
+seaborn
+matplotlib
